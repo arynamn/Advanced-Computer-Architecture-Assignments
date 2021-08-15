@@ -1,0 +1,6 @@
+traces/bzip2.log_l1misstrace 2
+traces/gcc.log_l1misstrace 2
+traces/gromacs.log_l1misstrace 1
+traces/h264ref.log_l1misstrace 1
+traces/hmmer.log_l1misstrace 1
+traces/sphinx3.log_l1misstrace 2
